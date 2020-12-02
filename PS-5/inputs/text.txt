@@ -1,0 +1,6 @@
+Pretend that this string was loaded from a web page.  
+We won't go to all that trouble here.  At least now we're load it from a file.
+This string contains multiple words. 
+And multiple copies of multiple words.  And multiple words with multiple copies.  
+It is to be used as a test to demonstrate how sets work in removing redundancy by keeping only one copy of each thing. 
+Is it very very redundant in having more than one copy of some words?

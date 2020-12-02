@@ -1,0 +1,4 @@
+ADJ N P ADJ N . 
+WH VBZ N . 
+P DET N N N . 
+P DET N V ADV CNJ DET N . 

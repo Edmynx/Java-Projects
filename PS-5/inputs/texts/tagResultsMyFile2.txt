@@ -1,0 +1,4 @@
+MOD V P DET N . 
+P DET N . 
+MOD V P DET N . 
+P DET N V DET N V ADJ . 

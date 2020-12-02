@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+  <photos page="1" pages="1111" perpage="10" total="11106">
+    <photo id="3839269905" owner="41637800@N07" secret="5513273158" server="3245" farm="4" title="Dartmouth College Library" ispublic="1" isfriend="0" isfamily="0" datetaken="2009-08-12 22:20:56" datetakengranularity="0" ownername="smiling-gardener" />
+    <photo id="3840057696" owner="41637800@N07" secret="c9428b8fb3" server="3434" farm="4" title="Dartmouth College Library Reference Desk" ispublic="1" isfriend="0" isfamily="0" datetaken="2009-08-12 21:43:14" datetakengranularity="0" ownername="smiling-gardener" />
+    <photo id="3840101430" owner="41637800@N07" secret="8c36522a60" server="3540" farm="4" title="Dartmouth College Library, Tower Reading Room" ispublic="1" isfriend="0" isfamily="0" datetaken="2009-08-12 22:13:35" datetakengranularity="0" ownername="smiling-gardener" />
+    <photo id="3840099142" owner="41637800@N07" secret="fb08d49e3a" server="2622" farm="3" title="Dartmouth College Library, Baker Building" ispublic="1" isfriend="0" isfamily="0" datetaken="2009-08-12 21:54:36" datetakengranularity="0" ownername="smiling-gardener" />
+    <photo id="3839321847" owner="41637800@N07" secret="23312dcc39" server="2633" farm="3" title="Carson Library, Dartmouth College" ispublic="1" isfriend="0" isfamily="0" datetaken="2009-08-13 00:32:54" datetakengranularity="0" ownername="smiling-gardener" />
+    <photo id="4921481751" owner="48139288@N05" secret="9d239a1a79" server="4138" farm="5" title="Purple orchids at Dartmouth College" ispublic="1" isfriend="0" isfamily="0" datetaken="2009-07-28 08:58:00" datetakengranularity="0" ownername="IdentifyWithResearch" />
+    <photo id="5493126343" owner="58601070@N02" secret="1094248076" server="5132" farm="6" title="Dev + The Cataracs @ Dartmouth College" ispublic="1" isfriend="0" isfamily="0" datetaken="2010-10-25 20:47:30" datetakengranularity="0" ownername="Bing Guan" />
+    <photo id="4922076228" owner="48139288@N05" secret="30f5ee1621" server="4117" farm="5" title="Red orchid cluster at Dartmouth College" ispublic="1" isfriend="0" isfamily="0" datetaken="2009-07-28 08:56:35" datetakengranularity="0" ownername="IdentifyWithResearch" />
+    <photo id="6029527740" owner="57589179@N07" secret="013d50596a" server="6189" farm="7" title="The Church of Christ at Dartmouth College" ispublic="1" isfriend="0" isfamily="0" datetaken="2011-08-10 11:38:40" datetakengranularity="0" ownername="The Town of Hanover, NH" />
+    <photo id="7417389014" owner="40586164@N07" secret="4e535760f9" server="7259" farm="8" title="Dartmouth College Chapel" ispublic="1" isfriend="0" isfamily="0" datetaken="2012-06-15 13:46:26" datetakengranularity="0" ownername="BFS Man" />
+  </photos>
+</rsp>

@@ -1,0 +1,4 @@
+TO V VN . 
+, CNJ N . 
+EX MOD V DET N P N . 
+TO V VN TO V CNJ N . 
